@@ -1,13 +1,13 @@
 {
-  "name": "X-BOT-MD",
+  "name": "Y69L-MD",
   "version": "3.7.0",
-  "description": "X-BOT-MD is a powerful WhatsApp Helper Bot packed with features like media handling, automation, and more.",
+  "description": "Y69L MD is a powerful WhatsApp Helper Bot packed with features like media handling, automation, and more.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name X-BOT-MD",
-    "stop": "pm2 stop . --attach --name X-BOT-MD"
+    "start": "pm2 start . --attach --name Y69L",
+    "stop": "pm2 stop . --attach --name Y69L"
   },
-  "author": "ASWIN SPARKY",
+  "author": "Y69L",
   "license": "ISC",
   "repository": {
     "type": "git",
